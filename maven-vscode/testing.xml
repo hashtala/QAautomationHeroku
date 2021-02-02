@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Default suite" parallel="false">
+	<test name="Allure reporting with TestNG tests" skipfailedinvocationcounts="false">
+		<classes>
+			<class
+				name="mypac.Main">
+			</class>
+		</classes>
+	</test>
+</suite>
